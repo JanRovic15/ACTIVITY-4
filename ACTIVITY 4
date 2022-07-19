@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv-"X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, intial.scale=1.0">
+    <link rel="stylesheet" href="mystyle.css">
+    <title> User </title>
+
+</head>
+<body>
+<h1 align="center" style="border: 5px solid turquoise;"> USER INFORMATION </h1>
+<hr>
+
+<h2 align="center"> <img src="2x2.JPG" width="200" height="200" style="border:5px solid turquoise;"> </nav>
+
+<h3>    JAN ROVIC L. PALMA </h3>
+<h3>    USER INFORMATION </h3>
+<h4>    PLACE OF BIRTH </h4>
+<h4>    Sampaloc, Maynila</h4>
+<h4>    CIVIL STATUS</h4>
+<h4>    Single</h4>
+<h4>    RELIGION</h4>
+<h4>    Iglesia Ni Cristo</h4>
+<h4>    Citizenship</h4>
+<h4>    Filipino</h4>
+<h4>    HEIGHT</h4>
+<h4>    5'4</h4>
+
+<a href="home.html">
+<button type="button" class="button"></button>
+<span class="button_icon">
+    <ion-icon name="home"></ion-icon>
+</span>
+</a>
+</body>
